@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182829973084",
+    "project_id": "playwire-leak",
+    "storage_bucket": "playwire-leak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182829973084:android:f27a5edab98e4ca60d3099",
+        "android_client_info": {
+          "package_name": "com.smp.playwireactivityleak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZWiDDA9lb3YqIvJKX3p757MEgq_jjwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
